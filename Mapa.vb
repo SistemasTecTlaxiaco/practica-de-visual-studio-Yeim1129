@@ -1,5 +1,0 @@
-﻿Public Class Mapa
-    Private Sub Mapa_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
-End Class
